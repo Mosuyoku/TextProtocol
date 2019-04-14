@@ -12,7 +12,7 @@ Protokół tekstowy obsługujący komunikację klienta z serwerem.
 Klient wysyła do serwera wartości , a serwer wykonuje obliczcenia i zwraca je klientowi.
 Dane przesyłane są za pomocą znaków ASCII.
 
-tabelapolecen.png
+![alt text](tabelapolecen.png)
 
 Zdefiniowane pola (4 znaki):
 - oper - pole operacji
